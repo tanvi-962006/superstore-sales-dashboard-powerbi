@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing **9,800+ sales transactions** from the Superstore dataset to uncover key business insights across regions, products, and customer segments.
 
-![Dashboard Preview](screenshots/page1_overview.png)
+
 
 ---
 
