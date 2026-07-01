@@ -84,11 +84,3 @@ Built a **3-page interactive dashboard** to help stakeholders:
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🤝 Connect
-
-If you found this helpful, feel free to ⭐ star this repository!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
