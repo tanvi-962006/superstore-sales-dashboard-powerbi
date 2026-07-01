@@ -80,23 +80,6 @@ Built a **3-page interactive dashboard** to help stakeholders:
 
 ---
 
-## 📸 Screenshots
-
-<details>
-<summary>Click to view all pages</summary>
-
-### Page 1 — Executive Overview
-![Page 1](screenshots/page1_overview.png)
-
-### Page 2 — Regional Analysis
-![Page 2](screenshots/page2_regional.png)
-
-### Page 3 — Product & Customers
-![Page 3](screenshots/page3_products.png)
-
-</details>
-
----
 
 ## 📜 License
 
